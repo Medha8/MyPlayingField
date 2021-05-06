@@ -1,0 +1,3 @@
+Hello this is a test file that i wanted to make to 
+see how things run in git. I think it is high time that
+I learn how to use git
